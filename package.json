@@ -1,0 +1,15 @@
+{
+  "name": "redis-playground",
+  "version": "1.0.0",
+  "description": "To understand redis",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar Jain",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^5.4.1"
+  }
+}
